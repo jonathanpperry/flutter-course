@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/ji-mac06/HybridApps/flutter_course/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/ji-mac06/HybridApps/flutter-course/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/Users/ji-mac06/HybridApps/flutter_course/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/ji-mac06/HybridApps/flutter-course/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

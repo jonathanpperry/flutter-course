@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 
-main() {
-  runApp(MyApp());
-}
+main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
@@ -11,6 +9,9 @@ class MyApp extends StatelessWidget {
         appBar: AppBar(
           title: Text('EasyList'),
         ),
+        body: Card(child: Column(children: <Widget>[
+
+        ],)),
       ),
     );
   }

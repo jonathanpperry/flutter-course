@@ -1,4 +1,4 @@
-#Tue Aug 13 18:24:56 JST 2019
-base.0=/Users/ji-mac06/HybridApps/flutter_course/build/app/intermediates/transforms/dexMerger/debug/0
+#Tue Aug 13 18:46:32 JST 2019
+base.0=/Users/ji-mac06/HybridApps/flutter-course/build/app/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex
